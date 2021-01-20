@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: company-profile
+Implementation-Version: 0.01
+Built-By: Danamas
+Implementation-Vendor-Id: com.company.profile
+Build-Jdk: 1.8.0_242
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/company-profile
+Created-By: Maven Integration for Eclipse
+
